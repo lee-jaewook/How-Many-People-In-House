@@ -1,0 +1,11 @@
+.\objects\glcd.o: ..\14_LCD_Test\GLCD.c
+.\objects\glcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\glcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\glcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\glcd.o: ..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\LPC17xx.H
+.\objects\glcd.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\glcd.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\glcd.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\glcd.o: ..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\system_LPC17xx.h
+.\objects\glcd.o: ..\14_LCD_Test\GLCD.h
+.\objects\glcd.o: ..\14_LCD_Test\font.h

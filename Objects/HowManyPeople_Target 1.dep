@@ -1,0 +1,72 @@
+Dependencies for Project 'HowManyPeople', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (..\1_GPIO\GPIO1\MDK-ARM\system_LPC17xx.c)(0x53F444A8)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Huins_NXP_LPC1768_Library\Drivers\include -I C:\Keil_v5\ARM\CMSIS\Include -I ..\11_Keypad -I ..\14_LCD_Test -I ..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include-I.\RTE\_Target_1-IC:\Users\jalee\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="530" -DLPC175x_6x -D_RTE_-o .\objects\system_lpc17xx.o --omf_browse .\objects\system_lpc17xx.crf --depend .\objects\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53424C)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\system_LPC17xx.h)(0x4FBF201A)
+F (..\1_GPIO\GPIO1\MDK-ARM\startup_LPC17xx.s)(0x5209992A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\jalee\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 530" --pd "LPC175x_6x SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (..\Huins_NXP_LPC1768_Library\Drivers\source\lpc17xx_gpio.c)(0x54D9CF12)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Huins_NXP_LPC1768_Library\Drivers\include -I C:\Keil_v5\ARM\CMSIS\Include -I ..\11_Keypad -I ..\14_LCD_Test -I ..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include-I.\RTE\_Target_1-IC:\Users\jalee\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="530" -DLPC175x_6x -D_RTE_-o .\objects\lpc17xx_gpio.o --omf_browse .\objects\lpc17xx_gpio.crf --depend .\objects\lpc17xx_gpio.d)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_gpio.h)(0x54D83E6C)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53424C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\system_LPC17xx.h)(0x4FBF201A)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc_types.h)(0x4FBF201A)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_libcfg_default.h)(0x54DB1DBE)
+F (..\Huins_NXP_LPC1768_Library\Drivers\source\lpc17xx_pinsel.c)(0x54D9F40E)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Huins_NXP_LPC1768_Library\Drivers\include -I C:\Keil_v5\ARM\CMSIS\Include -I ..\11_Keypad -I ..\14_LCD_Test -I ..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include-I.\RTE\_Target_1-IC:\Users\jalee\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="530" -DLPC175x_6x -D_RTE_-o .\objects\lpc17xx_pinsel.o --omf_browse .\objects\lpc17xx_pinsel.crf --depend .\objects\lpc17xx_pinsel.d)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_pinsel.h)(0x54D1B634)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53424C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\system_LPC17xx.h)(0x4FBF201A)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc_types.h)(0x4FBF201A)
+F (..\Huins_NXP_LPC1768_Library\Drivers\source\LPC1768_utility.c)(0x54DC605C)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Huins_NXP_LPC1768_Library\Drivers\include -I C:\Keil_v5\ARM\CMSIS\Include -I ..\11_Keypad -I ..\14_LCD_Test -I ..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include-I.\RTE\_Target_1-IC:\Users\jalee\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="530" -DLPC175x_6x -D_RTE_-o .\objects\lpc1768_utility.o --omf_browse .\objects\lpc1768_utility.crf --depend .\objects\lpc1768_utility.d)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\LPC1768_utility.h)(0x54DC45E2)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_gpio.h)(0x54D83E6C)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\LPC17xx.h)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53424C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\system_LPC17xx.h)(0x4FBF201A)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc_types.h)(0x4FBF201A)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\LPC1768_Huins.h)(0x54DB1DBE)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_pinsel.h)(0x54D1B634)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_exti.h)(0x54D1BA3C)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_uart.h)(0x54DB17CC)
+F (..\14_LCD_Test\GLCD.c)(0x54057676)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Huins_NXP_LPC1768_Library\Drivers\include -I C:\Keil_v5\ARM\CMSIS\Include -I ..\11_Keypad -I ..\14_LCD_Test -I ..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include-I.\RTE\_Target_1-IC:\Users\jalee\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="530" -DLPC175x_6x -D_RTE_-o .\objects\glcd.o --omf_browse .\objects\glcd.crf --depend .\objects\glcd.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53424C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5E53424C)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E53424C)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\LPC17xx.H)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\system_LPC17xx.h)(0x4FBF201A)
+I (..\14_LCD_Test\GLCD.h)(0x540575E6)
+I (..\14_LCD_Test\font.h)(0x4A027556)
+F (.\ANH.c)(0x5EE0CC89)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Huins_NXP_LPC1768_Library\Drivers\include -I C:\Keil_v5\ARM\CMSIS\Include -I ..\11_Keypad -I ..\14_LCD_Test -I ..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include-I.\RTE\_Target_1-IC:\Users\jalee\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="530" -DLPC175x_6x -D_RTE_-o .\objects\anh.o --omf_browse .\objects\anh.crf --depend .\objects\anh.d)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\LPC17xx.H)(0x4FBF201A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E53424C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CDD8A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CDD8A)
+I (..\Huins_NXP_LPC1768_Library\Core\Device\NXP\LPC17xx\Include\system_LPC17xx.h)(0x4FBF201A)
+I (..\11_Keypad\Keypad.H)(0x53F6DFD2)
+I (..\14_LCD_Test\GLCD.h)(0x540575E6)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\LPC1768_utility.h)(0x54DC45E2)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_gpio.h)(0x54D83E6C)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc_types.h)(0x4FBF201A)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\LPC1768_Huins.h)(0x54DB1DBE)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_pinsel.h)(0x54D1B634)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_exti.h)(0x54D1BA3C)
+I (..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_uart.h)(0x54DB17CC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5E53424C)
+I (C:\Keil_v5\ARM\ARMCC\include\time.h)(0x5E53424A)
